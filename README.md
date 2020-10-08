@@ -9,7 +9,7 @@
 
 
 ## Diamond 
-![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/diamond.png)
+![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/diamond-str.png)
 
 ![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/diamond-gui.png)
 
