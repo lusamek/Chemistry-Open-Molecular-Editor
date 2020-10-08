@@ -8,7 +8,7 @@
 ## Butane
 ![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/butane.png)
 
-![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/gdis-measurement.png)
+![](https://raw.githubusercontent.com/lusamek/OpenMolecularEditor/main/butane-measurement.png)
 
 
 
